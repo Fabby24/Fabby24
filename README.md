@@ -1,36 +1,41 @@
 <h1 align="center">Hi 👋, I'm Fabian Musau</h1>
-<h3 align="center">Full-Stack Developer | Building Scalable & Impact-Driven Web Solutions</h3>
 
 <p align="center">
-🚀 Turning ideas into real-world applications<br/>
-🌍 Nairobi, Kenya
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00BFFF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Building+Scalable+Web+Applications;Passionate+About+Real-World+Solutions" />
+</p>
+
+<h3 align="center">Full-Stack Developer | Nairobi, Kenya 🇰🇪</h3>
+
+<p align="center">
+  <a href="https://portfolio-engine-eta.vercel.app/">🌐 Portfolio</a> • 
+  <a href="mailto:musaufabian7@gmail.com">📧 Email</a> • 
+  <a href="https://www.linkedin.com/in/fabian-musau/">LinkedIn</a>
 </p>
 
 <p align="center">
-<a href="https://portfolio-engine-eta.vercel.app/">🌐 Portfolio</a> • 
-<a href="mailto:musaufabian7@gmail.com">📧 Email</a> • 
-<a href="https://www.linkedin.com/in/fabian-musau/">LinkedIn</a>
+  <img src="https://komarev.com/ghpvc/?username=fabby24&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+  <img src="https://img.shields.io/github/followers/fabby24?label=Followers&style=social" />
 </p>
 
 ---
 
 ## 👨‍💻 Who I Am
 
-I’m a software developer focused on building **efficient, scalable, and user-centered applications**.
+I build **scalable, user-focused web applications** that solve real-world problems.
 
-- 💡 I enjoy solving real-world problems through code  
-- ⚙️ I specialize in full-stack development and system design  
-- 🌱 Currently exploring **Blockchain, modern backend architecture, and scalable systems**  
-- 🤝 Open to collaborations on meaningful and impactful projects  
+- 💡 Focused on full-stack development & system design  
+- 🚀 Passionate about building impactful tech solutions  
+- 🌱 Currently learning **Blockchain, advanced backend systems**  
+- 🤝 Open to collaborations and innovative projects  
 
 ---
 
-## 🧠 What I Focus On
+## 🧠 What I Do
 
-- Building **full-stack web applications**
-- Designing **robust APIs and backend systems**
-- Creating **clean, user-friendly interfaces**
-- Developing **tools that improve workflows and automation**
+- ⚙️ Build full-stack web applications  
+- 🔗 Design APIs and backend systems  
+- 🎨 Create clean and intuitive user interfaces  
+- 🚀 Develop tools that improve workflows  
 
 ---
 
@@ -66,43 +71,34 @@ I’m a software developer focused on building **efficient, scalable, and user-c
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" height="40"/>
 </p>
+
 ---
 
 ## 🌱 Currently Growing In
 
 - Blockchain & Web3  
-- Advanced System Design  
 - Scalable Backend Architecture  
-
----
-
-## 🤝 Let’s Connect
-
-I’m always open to:
-- Collaborations on real-world projects  
-- Tech discussions and idea sharing  
-- Opportunities to build impactful solutions  
-
-📧 **Email:** musaufabian7@gmail.com  
-🌐 **Portfolio:** https://portfolio-engine-eta.vercel.app/  
-🔗 **LinkedIn:** https://www.linkedin.com/in/fabian-musau/  
+- System Design  
 
 ---
 
 ## ⚡ Personal Edge
 
-I focus on building **solutions that matter**, especially in areas like communication systems, education, and automation.  
-My goal is to create technology that is not just functional—but **useful, scalable, and impactful**.
+I focus on building **impact-driven solutions**, especially in communication systems, automation, and education tech.
 
 ---
 
 ## 📊 GitHub Activity
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=fabby24&show_icons=true&theme=default" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=fabby24&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fabby24&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fabby24&layout=compact" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=fabby24&" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fabby24&" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fabby24" />
 </p>
