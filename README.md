@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Fabian Musau</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00BFFF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Building+Scalable+Web+Applications;Passionate+About+Real-World+Solutions" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00BFFF&center=true&vCenter=true&width=600&lines=Software+Developer;Building+Scalable+Web+Applications;Passionate+About+Real-World+Solutions" />
 </p>
 
-<h3 align="center">Full-Stack Developer | Nairobi, Kenya 🇰🇪</h3>
+<h3 align="center">Software Developer | Nairobi, Kenya 🇰🇪</h3>
 
 <p align="center">
   <a href="https://portfolio-engine-eta.vercel.app/">🌐 Portfolio</a> • 
